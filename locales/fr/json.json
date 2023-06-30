@@ -1,6 +1,3 @@
 {
-    "Email": "E-mail",
-    "Hello": "Bonjour",
-    "Name": "Nom",
-    "World": "Monde"
+    "The :attribute must be a valid card number.": "The :attribute must be a valid card number."
 }

@@ -2,4 +2,4 @@
 
 | Laravel version | Install command                        |
 |-----------------|----------------------------------------|
-| Laravel 9       | `composer require your/namespace:^1.0` |
+| Laravel 9       | `composer require dragon-code/translation-set:^1.0` |

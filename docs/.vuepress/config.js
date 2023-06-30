@@ -29,9 +29,9 @@ module.exports = {
 
         logo: `https://${ hostname }/images/logo.svg`,
 
-        repo: 'https://github.com/Laravel-Lang/translations-template',
+        repo: 'https://github.com/TheDragonCode/card-number',
         repoLabel: 'GitHub',
-        docsRepo: 'https://github.com/Laravel-Lang/translations-template',
+        docsRepo: 'https://github.com/TheDragonCode/card-number',
         docsBranch: 'main',
         docsDir: 'docs',
 
@@ -105,7 +105,7 @@ module.exports = {
         }),
 
         githubLinkifyPlugin({
-            repo: 'Laravel-Lang/translations-template'
+            repo: 'TheDragonCode/card-number'
         })
     ]
 }

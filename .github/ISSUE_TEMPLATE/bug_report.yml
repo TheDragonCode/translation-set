@@ -17,11 +17,11 @@ body:
         attributes:
             label: Environment
             description: |
-                Tip: Use the `composer info your/namespace` command to get information for Laravel Lang.
+                Tip: Use the `composer info dragon-code/translation-set` command to get information for Laravel Lang.
                 Tip: Use the `composer info laravel/framework` command to get information for Laravel Framework.
                 Tip: Use the `php -v` command to get information for PHP.
             value: |
-                - Extended Lang Translations Template Version:
+                - Translation Set Version:
                 - Laravel Version:
                 - PHP Version:
         validations:
@@ -50,4 +50,4 @@ body:
     -   type: markdown
         attributes:
             value: |
-                ❤️ Laravel Lang? Please consider supporting our collective: https://opencollective.com/laravel-lang
+                ❤️ The Dragon Code? Please consider supporting our collective: https://opencollective.com/dragon-code

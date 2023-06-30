@@ -2,14 +2,14 @@
 
 declare(strict_types=1);
 
-namespace YourNamespace\Translations;
+namespace DragonCode\TranslationSet;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 use LaravelLang\Publisher\Plugins\Provider;
 
 class ServiceProvider extends BaseServiceProvider
 {
-    public function register()
+    public function register(): void
     {
         if (class_exists(Provider::class)) {
             $this->app->register(Plugin::class);

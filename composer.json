@@ -1,6 +1,6 @@
 {
-    "name": "your/namespace",
-    "description": "Extended translations for Laravel Projects",
+    "name": "dragon-code/translation-set",
+    "description": "Translation set for The Dragon Code packages",
     "license": "MIT",
     "type": "library",
     "keywords": [
@@ -8,16 +8,14 @@
         "languages",
         "lang",
         "translations",
-        "messages"
+        "messages",
+        "dragon code"
     ],
     "authors": [
         {
             "name": "Andrey Helldar",
-            "email": "helldar@dragon-code.pro"
-        },
-        {
-            "name": "Laravel-Lang Team",
-            "homepage": "https://github.com/Laravel-Lang"
+            "email": "helldar@dragon-code.pro",
+            "homepage": "https://github.com/andrey-helldar"
         }
     ],
     "require": {
@@ -30,14 +28,11 @@
         "phpunit/phpunit": "^9.6",
         "symfony/var-dumper": "^6.2"
     },
-    "conflict": {
-        "laravel-lang/publisher": "<14.0"
-    },
     "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "YourNamespace\\Translations\\": "src"
+            "DragonCode\\TranslationSet\\": "src/"
         }
     },
     "autoload-dev": {
