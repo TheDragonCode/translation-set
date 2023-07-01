@@ -15,6 +15,7 @@ class Plugin extends Provider
 
     protected array $plugins = [
         CardNumber\Main::class,
+        CardNumber\V1::class,
     ];
 
     public function boot(): void

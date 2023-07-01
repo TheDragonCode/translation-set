@@ -13,7 +13,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "main" ]
+                version: [ "main", "1.x" ]
         with:
             project: Card Number ${{ matrix.version }}
             paths: source/card-number/${{ matrix.version }}/*

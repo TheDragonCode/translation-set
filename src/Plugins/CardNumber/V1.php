@@ -6,16 +6,16 @@ namespace DragonCode\TranslationSet\Plugins\CardNumber;
 
 use LaravelLang\Publisher\Plugins\Plugin;
 
-class Main extends Plugin
+class V1 extends Plugin
 {
     protected ?string $vendor = 'dragon-code/card-number';
 
-    protected string $version = 'dev-main';
+    protected string $version = '^1.0';
 
     public function files(): array
     {
         return [
-            'card-number/main/card-number.json' => '{locale}.json',
+            'card-number/1.x/card-number.json' => '{locale}.json',
         ];
     }
 }
