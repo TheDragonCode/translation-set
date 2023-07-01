@@ -1,4 +1,4 @@
 {
     "The :attribute field must be a valid card number.": "Ennek a mezőnek érvényes kártyaszámnak kell lennie.",
-    "The :attribute field must contain a card number of one of the following types: :types.": "This field must contain a card number of one of the following types: :types."
+    "The :attribute field must contain a card number of one of the following types: :types.": "Ennek a mezőnek a következő típusú kártyaszámot kell tartalmaznia: :types."
 }
