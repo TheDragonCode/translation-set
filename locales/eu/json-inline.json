@@ -1,4 +1,4 @@
 {
     "The :attribute field must be a valid card number.": "Eremu honek baliozko txartelaren zenbakia izan behar du.",
-    "The :attribute field must contain a card number of one of the following types: :types.": "This field must contain a card number of one of the following types: :types."
+    "The :attribute field must contain a card number of one of the following types: :types.": "Eremu honek txartel-zenbaki bat izan behar du mota hauetako batekoa: :types."
 }
