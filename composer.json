@@ -44,7 +44,8 @@
         "allow-plugins": {
             "dragon-code/codestyler": true,
             "ergebnis/composer-normalize": true,
-            "symfony/thanks": true
+            "symfony/thanks": true,
+            "php-http/discovery": true
         },
         "preferred-install": "dist",
         "sort-packages": true
