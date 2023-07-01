@@ -1,4 +1,4 @@
 {
     "The :attribute field must be a valid card number.": "Toto pole musí obsahovať platné číslo karty.",
-    "The :attribute field must contain a card number of one of the following types: :types.": "This field must contain a card number of one of the following types: :types."
+    "The :attribute field must contain a card number of one of the following types: :types.": "Toto pole musí obsahovať číslo karty jedného z nasledujúcich typov: :types."
 }
