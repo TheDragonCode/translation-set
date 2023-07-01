@@ -1,4 +1,4 @@
 {
     "The :attribute field must be a valid card number.": "এই ক্ষেত্রটি অবশ্যই একটি বৈধ কার্ড নম্বর হতে হবে।",
-    "The :attribute field must contain a card number of one of the following types: :types.": "This field must contain a card number of one of the following types: :types."
+    "The :attribute field must contain a card number of one of the following types: :types.": "এই ক্ষেত্রটিতে অবশ্যই নিম্নলিখিত ধরণের একটি কার্ড নম্বর থাকতে হবে: :types৷"
 }
