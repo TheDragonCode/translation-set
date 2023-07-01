@@ -1,4 +1,4 @@
 {
     "The :attribute field must be a valid card number.": "Feltet :attribute skal være et gyldigt kortnummer.",
-    "The :attribute field must contain a card number of one of the following types: :types.": "The :attribute field must contain a card number of one of the following types: :types."
+    "The :attribute field must contain a card number of one of the following types: :types.": "Feltet :attribute skal indeholde et kortnummer af en af ​​følgende typer: :types."
 }
