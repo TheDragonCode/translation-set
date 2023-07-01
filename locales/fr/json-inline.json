@@ -1,4 +1,4 @@
 {
     "The :attribute field must be a valid card number.": "Ce champ doit être un numéro de carte valide.",
-    "The :attribute field must contain a card number of one of the following types: :types.": "This field must contain a card number of one of the following types: :types."
+    "The :attribute field must contain a card number of one of the following types: :types.": "Ce champ doit contenir un numéro de carte de l'un des types suivants : :types."
 }
