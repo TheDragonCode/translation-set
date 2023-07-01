@@ -1,4 +1,4 @@
 {
     "The :attribute field must be a valid card number.": "Ово поље мора бити важећи број картице.",
-    "The :attribute field must contain a card number of one of the following types: :types.": "This field must contain a card number of one of the following types: :types."
+    "The :attribute field must contain a card number of one of the following types: :types.": "Ово поље мора да садржи број картице једног од следећих типова: :types."
 }
