@@ -19,6 +19,6 @@ jobs:
             paths: source/card-number/${{ matrix.version }}/*
             commands: |
                 vendor/bin/lang download \
-                    --url=https://github.com/laravel/framework/archive/refs/heads/${{ matrix.version }}.zip \
-                    --project=framework \
+                    --url=https://github.com/TheDragonCode/card-number/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=card-number \
                     --ver=${{ matrix.version }}
