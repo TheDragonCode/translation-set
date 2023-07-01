@@ -1,4 +1,4 @@
 {
     "The :attribute field must be a valid card number.": "该字段必须是有效的卡号。",
-    "The :attribute field must contain a card number of one of the following types: :types.": "This field must contain a card number of one of the following types: :types."
+    "The :attribute field must contain a card number of one of the following types: :types.": "此字段必须包含以下类型之一的卡号：:types。"
 }
