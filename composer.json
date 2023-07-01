@@ -45,7 +45,12 @@
             "php-http/discovery": true
         },
         "preferred-install": "dist",
-        "sort-packages": true
+        "sort-packages": true,
+        "allow-plugins": {
+            "dragon-code/codestyler": true,
+            "ergebnis/composer-normalize": true,
+            "symfony/thanks": true
+        }
     },
     "extra": {
         "laravel": {
