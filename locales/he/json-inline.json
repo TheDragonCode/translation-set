@@ -1,3 +1,3 @@
 {
-    "The :attribute must be a valid card number.": "שדה זה חייב להיות מספר כרטיס חוקי."
+    "The :attribute field must be a valid card number.": "This field must be a valid card number."
 }

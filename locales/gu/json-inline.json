@@ -1,3 +1,3 @@
 {
-    "The :attribute must be a valid card number.": "આ ફીલ્ડ માન્ય કાર્ડ નંબર હોવું આવશ્યક છે."
+    "The :attribute field must be a valid card number.": "This field must be a valid card number."
 }

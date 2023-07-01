@@ -23,7 +23,7 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-The :attribute must be a valid card number.
+The :attribute field must be a valid card number.
 
 </td><td width="50%">
 
@@ -52,11 +52,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-The :attribute must be a valid card number.
+The :attribute field must be a valid card number.
 
 </td><td width="50%">
 
-The :attribute must be a valid card number.
+The :attribute field must be a valid card number.
 
 </td></tr>
 </table>
