@@ -1,4 +1,4 @@
 {
     "The :attribute field must be a valid card number.": "ប្រអប់លេខ :attribute ត្រូវតែជាលេខកាតត្រឹមត្រូវ។",
-    "The :attribute field must contain a card number of one of the following types: :types.": "The :attribute field must contain a card number of one of the following types: :types."
+    "The :attribute field must contain a card number of one of the following types: :types.": "វាលទាំង :attribute ត្រូវតែមានលេខកាតមួយនៃប្រភេទដូចខាងក្រោម: :types ។"
 }
