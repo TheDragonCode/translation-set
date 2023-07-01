@@ -1,4 +1,4 @@
 {
     "The :attribute field must be a valid card number.": "Bu maydon toʻgʻri karta raqami boʻlishi kerak.",
-    "The :attribute field must contain a card number of one of the following types: :types.": "This field must contain a card number of one of the following types: :types."
+    "The :attribute field must contain a card number of one of the following types: :types.": "Bu maydon quyidagi turlardan birining karta raqamini o'z ichiga olishi kerak: :types."
 }
