@@ -1,4 +1,4 @@
 {
     "The :attribute field must be a valid card number.": "Fusha :attribute duhet të jetë një numër i vlefshëm karte.",
-    "The :attribute field must contain a card number of one of the following types: :types.": "The :attribute field must contain a card number of one of the following types: :types."
+    "The :attribute field must contain a card number of one of the following types: :types.": "Fusha :attribute duhet të përmbajë një numër karte të një prej llojeve të mëposhtme: :types."
 }
