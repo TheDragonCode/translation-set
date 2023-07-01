@@ -1,3 +1,4 @@
 {
-    "The :attribute field must be a valid card number.": "Ang field na ito ay dapat na isang wastong numero ng card."
+    "The :attribute field must be a valid card number.": "Ang field na ito ay dapat na isang wastong numero ng card.",
+    "The :attribute field must contain a card number of one of the following types: :types.": "This field must contain a card number of one of the following types: :types."
 }

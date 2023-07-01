@@ -1,3 +1,4 @@
 {
-    "The :attribute field must be a valid card number.": ":Attribute ක්ෂේත්‍රය වලංගු කාඩ්පත් අංකයක් විය යුතුය."
+    "The :attribute field must be a valid card number.": ":Attribute ක්ෂේත්‍රය වලංගු කාඩ්පත් අංකයක් විය යුතුය.",
+    "The :attribute field must contain a card number of one of the following types: :types.": "The :attribute field must contain a card number of one of the following types: :types."
 }

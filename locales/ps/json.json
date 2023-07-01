@@ -1,3 +1,4 @@
 {
-    "The :attribute field must be a valid card number.": ":Attribute ساحه باید د اعتبار وړ کارت شمیره وي."
+    "The :attribute field must be a valid card number.": ":Attribute ساحه باید د اعتبار وړ کارت شمیره وي.",
+    "The :attribute field must contain a card number of one of the following types: :types.": "The :attribute field must contain a card number of one of the following types: :types."
 }
