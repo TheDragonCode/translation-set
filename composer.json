@@ -42,15 +42,12 @@
     },
     "config": {
         "allow-plugins": {
-            "php-http/discovery": true
-        },
-        "preferred-install": "dist",
-        "sort-packages": true,
-        "allow-plugins": {
             "dragon-code/codestyler": true,
             "ergebnis/composer-normalize": true,
             "symfony/thanks": true
-        }
+        },
+        "preferred-install": "dist",
+        "sort-packages": true
     },
     "extra": {
         "laravel": {
