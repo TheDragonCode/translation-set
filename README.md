@@ -1,9 +1,8 @@
 # Translation Set
 
-![Translation Set](https://preview.dragon-code.pro/the-dragon-code/translation-set.svg?brand=laravel&mode=dark)
+![Translation Set](https://banners.beyondco.de/Translation%20Set.png?theme=light&packageManager=composer+require&packageName=dragon-code%2Ftranslation-set+--dev&pattern=topography&style=style_2&description=by+The+Dragon+Code&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
 
 [![Stable Version][badge_stable]][link_packagist]
-[![Unstable Version][badge_unstable]][link_packagist]
 [![Total Downloads][badge_downloads]][link_packagist]
 [![License][badge_license]][link_license]
 
@@ -36,8 +35,6 @@ Now the package is connected to your application and you can [manage localizatio
 
 
 [badge_stable]:     https://img.shields.io/github/v/release/TheDragonCode/translation-set?label=stable&style=flat-square
-
-[badge_unstable]:   https://img.shields.io/badge/unstable-dev--main-orange?style=flat-square
 
 [badge_downloads]:  https://img.shields.io/packagist/dt/dragon-code/translation-set.svg?style=flat-square
 
